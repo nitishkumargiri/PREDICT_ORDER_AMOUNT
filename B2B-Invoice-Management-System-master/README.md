@@ -30,6 +30,6 @@ Check the specific folder of `README.md`. Find the detailed instructions in the 
 
 **Home Page:**
 
-![Homepage View](https://github.com/sambitos23/B2B-Invoice-Management-System/blob/master/Frontend%20-%20React%20Js/Screen%20Shots/Home%20Page.PNG)
+![Homepage View](https://github.com/nitishkumargiri/B2B-Invoice-Management-System/blob/master/Frontend%20-%20React%20Js/Screen%20Shots/Home%20Page.PNG)
 
 ### **Project is completlty fine to check the Final output images click here 👉 [Screen Shots](https://github.com/sambitos23/B2B-Invoice-Management-System/tree/master/Frontend%20-%20React%20Js/Screen%20Shots)**
